@@ -16,6 +16,7 @@ setup(
         'Pillow',
     ],
     license='MIT',
+    license_files=['LICENSE.md'],
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
